@@ -1,0 +1,6 @@
+node_modules/
+.pgdata/
+.pgdata.log
+.env
+loadtest/fixtures.json
+loadtest/results/*.log

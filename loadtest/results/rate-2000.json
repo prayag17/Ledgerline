@@ -1,0 +1,23 @@
+{
+  "target_rate": 2000,
+  "duration": "60s",
+  "http_reqs": 125956,
+  "http_req_rate": 2099.177189238975,
+  "iterations": 119945,
+  "iteration_rate": 1998.9981260382108,
+  "dropped_iterations": 56,
+  "failed_rate": 0,
+  "latency_ms": {
+    "avg": 7.088386160246387,
+    "med": 2.6012,
+    "p90": 4.02705,
+    "p95": 18.503875,
+    "p99": 178.73294999999982,
+    "max": 293.7552
+  },
+  "transfers_posted": 118734,
+  "transfers_declined": 1211,
+  "idempotent_replays": 6011,
+  "replay_mismatch": 0,
+  "thresholds_passed": true
+}
